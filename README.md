@@ -20,9 +20,9 @@
   - You will never get the purged asset back.
   - 1/2 will be aggressively dumped by an AMM which in extreme cases should create a feedback loop and lead to the accelerated destruction.
   - 1/2 will be burned permanently by sending to an unrecoverable address.
-  - The more you purge the more voting power you have to help guide the project 
-
-  #### The remaining contracts are utilities and or tooling.
+  - The more you purge the more voting power you have to help guide the project
+  
+  ####The remaining contracts are utilities and or tooling.
 
   - Migrations.sol
   - MockERC20.sol
