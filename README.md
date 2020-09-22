@@ -22,7 +22,8 @@
   - 1/2 will be burned permanently by sending to an unrecoverable address.
   - The more you purge the more voting power you have to help guide the project 
 
-### The remaining contracts are utilities and or tooling.
+  #### The remaining contracts are utilities and or tooling.
+
   - Migrations.sol
   - MockERC20.sol
 
