@@ -1,6 +1,6 @@
 # Purge Network - Janitor DAO
 
-### Community-based purging of dead assets from Ethereum.
+  ## Community-based purging of dead assets from Ethereum. 
 
   An experimental DAO that incentivizes the destruction of illiquid and unwanted value representation on Ethereum. 
   
